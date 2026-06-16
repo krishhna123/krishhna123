@@ -2,13 +2,14 @@
 
 **📍Berlin, Germany | 🤖 AI Enthusiast | 🔎 Quality and Automation Expert**
 
-I'm a Senior Test Automation engineer supercharged with AI tools and experienced in building scalable test automation frameworks
+I'm a Senior Test Automation Engineer supercharged with AI tools and experienced in building scalable test automation frameworks
 
 ![Playwright](https://img.shields.io/badge/-Playwright-3178C6?style=flat-square)
 ![Cypress](https://img.shields.io/badge/-Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Mobilewright](https://img.shields.io/badge/-Mobilewright-3178C6?style=flat-square)
 ![Appium](https://img.shields.io/badge/-Appium-EE376D?style=flat-square&logo=appium&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-f29111?style=flat-square)
@@ -23,11 +24,31 @@ I'm a Senior Test Automation engineer supercharged with AI tools and experienced
   ![Model Context Protocols](https://img.shields.io/badge/-Model%20Context%20Protocols-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
   ![Agentic Skills](https://img.shields.io/badge/-Agentic%20Skills-000000?style=flat-square&logo=agentskills&logoColor=black)
 
-## Current Projects
+- Testing toolkit
+  
+  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+  ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+  ![Test Rail](https://img.shields.io/badge/-Test%20Rail-65C179?style=flat-square&logo=testrail&logoColor=white)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=black)
+  ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=black)
+  ![Checkly](https://img.shields.io/badge/-Checkly-0A9EDC?style=flat-square&logo=checkly&logoColor=black)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=black)
+  ![Circle CI](https://img.shields.io/badge/-Circle%20CI-43434?style=flat-square&logo=circleci&logoColor=black)
+  
+  
 
-- **[Experimenting with Mobilewright](https://github.com/krishhna123/android-automation-with-mobilewright)** - Test automation framework built to explore mobilewright's capabilities
-- **[Playground for Playwright's Features](https://github.com/krishhna123/playwright-sample-project)** - Sample project to explore Playwright's basic to advance features
+## 👨🏻‍💻 Current Projects
 
-## Certifications
+- 📱 **[Experimenting with Mobilewright](https://github.com/krishhna123/android-automation-with-mobilewright)** - Test automation framework built to explore mobilewright's capabilities
+- 🕸️ **[Playground for Playwright's Features](https://github.com/krishhna123/playwright-sample-project)** - Sample project to explore Playwright's basic to advance features
 
-- **[Claude with Anthropic API](https://verify.skilljar.com/c/94skyfhn5ctq)** - Extensive course by Anthropic Academy, focusing on building applications with Anthropic API and best practices
+
+## 🔖 Articles
+
+- **[Setting up Github Actions for Mobilewright](https://www.linkedin.com/pulse/setting-up-github-actions-mobilewright-execution-cost-majgaonkar-6kl2f/)**
+
+
+## 🎓 Certifications
+
+- **[Claude with Anthropic API](https://verify.skilljar.com/c/94skyfhn5ctq)** - Extensive course by Anthropic Academy, focusing on building applications with Anthropic API and best practices ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=black)
