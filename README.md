@@ -22,7 +22,7 @@ I'm a Senior Test Automation Engineer supercharged with AI tools and experienced
   ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
   ![Deepseek](https://img.shields.io/badge/-Deepseek-5786FE?style=flat-square&logo=deepseek&logoColor=white)
   ![Model Context Protocols](https://img.shields.io/badge/-Model%20Context%20Protocols-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-  ![Agentic Skills](https://img.shields.io/badge/-Agentic%20Skills-000000?style=flat-square&logo=agentskills&logoColor=black)
+  ![Agentic Skills](https://img.shields.io/badge/-Agentic%20Skills-000000?style=flat-square&logo=agentskills&logoColor=white)
 
 - Testing toolkit
   
@@ -40,7 +40,7 @@ I'm a Senior Test Automation Engineer supercharged with AI tools and experienced
 
 ## 👨🏻‍💻 Current Projects
 
-- 📱 **[Experimenting with Mobilewright](https://github.com/krishhna123/android-automation-with-mobilewright)** - Test automation framework built to explore mobilewright's capabilities
+- 📱 **[Experimenting with Mobilewright](https://github.com/krishhna123/android-automation-with-mobilewright)** - Test automation framework built to explore Mobilewright's capabilities
 - 🕸️ **[Playground for Playwright's Features](https://github.com/krishhna123/playwright-sample-project)** - Sample project to explore Playwright's basic to advance features
 
 
@@ -51,4 +51,4 @@ I'm a Senior Test Automation Engineer supercharged with AI tools and experienced
 
 ## 🎓 Certifications
 
-- **[Claude with Anthropic API](https://verify.skilljar.com/c/94skyfhn5ctq)** - Extensive course by Anthropic Academy, focusing on building applications with Anthropic API and best practices ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=black)
+- **[Claude with Anthropic API](https://verify.skilljar.com/c/94skyfhn5ctq)** - Extensive course by Anthropic Academy, focusing on building applications with Anthropic API and best practices
