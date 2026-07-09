@@ -52,3 +52,5 @@ I'm a Senior Test Automation Engineer supercharged with AI tools and experienced
 ## 🎓 Certifications
 
 - **[Claude with Anthropic API](https://verify.skilljar.com/c/94skyfhn5ctq)** - Extensive course by Anthropic Academy, focusing on building applications with Anthropic API and best practices
+- **ISTQB Certified Tester Foundation Level v4.0 (CTFL)** - Certification provides a comprehensive understanding of the terminology and concepts used in the testing domain worldwide, making it relevant for all software delivery approaches and practices
+
