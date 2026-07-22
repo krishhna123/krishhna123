@@ -46,6 +46,7 @@ I'm a Senior Test Automation Engineer supercharged with AI tools and experienced
 
 ## 🔖 Articles
 
+- **[Playwright Screencast: Supercharged Test Videos](https://krishna-majgaonkar.vercel.app/#/articles/playwright_screencast_00)**
 - **[Setting up Github Actions for Mobilewright](https://www.linkedin.com/pulse/setting-up-github-actions-mobilewright-execution-cost-majgaonkar-6kl2f/)**
 
 
