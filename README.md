@@ -2,7 +2,7 @@
 
 **📍Berlin, Germany | 🤖 AI Enthusiast | 🔎 Quality and Automation Expert**
 
-I'm a Senior Test Automation Engineer supercharged with AI tools and experienced in building scalable test automation frameworks
+I'm a Senior QA Engineer supercharged with AI tools and experienced in building scalable test automation frameworks
 
 ![Playwright](https://img.shields.io/badge/-Playwright-3178C6?style=flat-square)
 ![Cypress](https://img.shields.io/badge/-Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
@@ -25,7 +25,7 @@ I'm a Senior Test Automation Engineer supercharged with AI tools and experienced
   ![Agentic Skills](https://img.shields.io/badge/-Agentic%20Skills-000000?style=flat-square&logo=agentskills&logoColor=white)
 
 - Testing toolkit
-  
+
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
   ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
   ![Test Rail](https://img.shields.io/badge/-Test%20Rail-65C179?style=flat-square&logo=testrail&logoColor=white)
@@ -35,23 +35,19 @@ I'm a Senior Test Automation Engineer supercharged with AI tools and experienced
   ![Checkly](https://img.shields.io/badge/-Checkly-0A9EDC?style=flat-square&logo=checkly&logoColor=black)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=black)
   ![Circle CI](https://img.shields.io/badge/-Circle%20CI-43434?style=flat-square&logo=circleci&logoColor=black)
-  
-  
 
 ## 👨🏻‍💻 Current Projects
 
+- 🏦 **[QA Question Bank](https://github.com/krishhna123/qa-interview-prep)** - Question bank for QA interviews
 - 📱 **[Experimenting with Mobilewright](https://github.com/krishhna123/android-automation-with-mobilewright)** - Test automation framework built to explore Mobilewright's capabilities
 - 🕸️ **[Playground for Playwright's Features](https://github.com/krishhna123/playwright-sample-project)** - Sample project to explore Playwright's basic to advance features
-
 
 ## 🔖 Articles
 
 - **[Playwright Screencast: Supercharged Test Videos](https://krishna-majgaonkar.vercel.app/#/articles/playwright_screencast_00)**
 - **[Setting up Github Actions for Mobilewright](https://www.linkedin.com/pulse/setting-up-github-actions-mobilewright-execution-cost-majgaonkar-6kl2f/)**
 
-
 ## 🎓 Certifications
 
 - **[Claude with Anthropic API](https://verify.skilljar.com/c/94skyfhn5ctq)** - Extensive course by Anthropic Academy, focusing on building applications with Anthropic API and best practices
 - **ISTQB Certified Tester Foundation Level v4.0 (CTFL)** - Certification provides a comprehensive understanding of the terminology and concepts used in the testing domain worldwide, making it relevant for all software delivery approaches and practices
-
